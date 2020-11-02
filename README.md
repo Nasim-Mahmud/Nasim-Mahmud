@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+![ezgif-7-a53f47e6655d](https://user-images.githubusercontent.com/57942968/97859484-dee03680-1d2a-11eb-8a2b-9c405d169ab2.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -41,8 +41,8 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=Nasim-Mahmud&show_icons=true&hide_border=true)
-![Nasim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim-Mahmud&layout=compact&hide_border=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=Nasim-Mahmud&theme=chartreuse-dark&show_icons=true&hide_border=true)
+![Nasim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim-Mahmud&theme=chartreuse-dark&layout=compact&hide_border=true)
 <!--
 
 Here are some ideas to get you started:

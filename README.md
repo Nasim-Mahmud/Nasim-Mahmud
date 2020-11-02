@@ -1,4 +1,4 @@
-<a target="_blank" href="https://aaneloy.netlify.app"><img height = "340" width="350" align="right" src="https://github.com/Nasim-Mahmud/Nasim-Mahmud/blob/main/images/1.gif"></a>
+<a target="_blank"><img height = "340" width="350" align="right" src="https://github.com/Nasim-Mahmud/Nasim-Mahmud/blob/main/images/1.gif"></a>
 
 # Nasim Mahmud
 
@@ -14,7 +14,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 </p>
 
-## Stack I work with
+## Some things I use
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code> -->
 <!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> -->
@@ -33,8 +33,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code> -->
 
 
-## External Websites
-<!-- * [Personal Website](https://aaneloy.netlify.app/) -->
+## External Links
 * [ResearchGate](https://www.researchgate.net/profile/Nasim_Mishu)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=jl0XIuAAAAAJ)
 * [LinkedIn](https://www.linkedin.com/in/nasim-mahmud/)
@@ -45,7 +44,6 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Nasim-Mahmud&show_icons=true&hide_border=true)
 ![Nasim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim-Mahmud&layout=compact&hide_border=true)
 <!--
-**NeloyNSU/NeloyNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

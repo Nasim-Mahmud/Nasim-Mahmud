@@ -6,7 +6,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nasim-mahmud/)
 
 <p1 align="justify">
-I am an <b>undergraduate student</b> at the <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, North South University.
+I am an <b>undergraduate student</b> at the <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>.
 </p1>
 
 <p align="justify">

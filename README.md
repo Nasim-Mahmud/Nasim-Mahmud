@@ -1,4 +1,4 @@
-<a target="_blank"><img height = "340" width="350" align="right" src="https://github.com/Nasim-Mahmud/Nasim-Mahmud/blob/main/images/1.gif"></a>
+<a target="_blank"><img height = "290" width="300" align="right" src="https://github.com/Nasim-Mahmud/Nasim-Mahmud/blob/main/images/1.gif"></a>
 
 # Nasim Mahmud
 

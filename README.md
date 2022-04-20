@@ -16,7 +16,8 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 </p>
 
 ## Some things I use
-<!--<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>-->
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <!--<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>-->

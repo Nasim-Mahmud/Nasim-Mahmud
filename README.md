@@ -54,3 +54,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+
+<h2>Github Stats</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasim-Mahmud&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=0AD4F7&fire=8E49F8&currStreakLabel=558EF8&currStreakNum=8E49F8&sideNums=0AD4F7&sideLabels=558EF8&dates=727272&background=DD272700">
+</div>

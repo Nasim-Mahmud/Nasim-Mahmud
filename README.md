@@ -17,7 +17,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 <h2>Github Stats</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasim-Mahmud&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=0AD4F7&fire=8E49F8&currStreakLabel=558EF8&currStreakNum=8E49F8&sideNums=0AD4F7&sideLabels=558EF8&dates=727272&background=DD272700">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasim-Mahmud&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
 </div>
 
 <h2>

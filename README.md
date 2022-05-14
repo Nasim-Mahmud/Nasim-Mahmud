@@ -12,7 +12,8 @@ I am a <b>Computer Science and Engineering graduate</b> from the <a href="http:/
 
 <p align="justify">
 My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
-  As a personal interest, I am currently learning <b>Python</b>.
+
+As a personal interest, I am currently learning <b>Python</b>.
 </p>
 
 <h2>Github Stats</h2>

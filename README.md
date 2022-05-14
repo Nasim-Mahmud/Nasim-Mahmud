@@ -22,7 +22,7 @@ As a personal interest, I am currently learning <b>Python</b>.
 </div>
 
 <h2 align="center">
-	Some things I have used
+	Languages and tools
 </h2>
 <div align="center">
 <code>
@@ -41,8 +41,10 @@ As a personal interest, I am currently learning <b>Python</b>.
 </code>
 </div>
 
+<h2 align="center">
+External Links
+</h2>
 
-## External Links
 * [ResearchGate](https://www.researchgate.net/profile/Nasim_Mishu)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=jl0XIuAAAAAJ)
 * [LinkedIn](https://www.linkedin.com/in/nasim-mahmud/)

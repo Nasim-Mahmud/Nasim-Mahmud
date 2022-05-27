@@ -22,25 +22,25 @@ As a personal interest, I am currently learning <b>Python</b>.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasim-Mahmud&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
 </div>
 
-<h2 align="center">
-	Languages and tools
-</h2>
-<div align="center">
-<code>
-	<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-	<img height="50" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png">
-	<img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-	<img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
-	<!--<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>-->
-	<!--<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>-->
-	<img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-	<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-	<img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
-	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png">
-	<img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
-	<img height="50" src="https://www.seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png">
-</code>
-</div>
+<!-- <h2 align="center"> -->
+<!-- 	Languages and tools -->
+<!-- </h2> -->
+<!-- <div align="center"> -->
+<!-- <code> -->
+<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> -->
+<!-- 	<img height="50" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png"> -->
+<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> -->
+<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> -->
+<!-- 	<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code> -->
+<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> -->
+<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> -->
+<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> -->
+<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> -->
+<!-- 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"> -->
+<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"> -->
+<!-- 	<img height="50" src="https://www.seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png"> -->
+<!-- </code> -->
+<!-- </div> -->
 
 <h2 align="center">
 External Links
@@ -86,6 +86,6 @@ External Links
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### Contribution graph
+### 💪 Contribution graph
 
-[![Nasim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nasim-Mahmud&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nasim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nasim-Mahmud&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>

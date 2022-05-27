@@ -6,6 +6,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nasim-mahmud/)
 ![Profile views](https://gpvc.arturio.dev/Nasim-Mahmud)
 
+
 <p1 align="justify">
 I am a <b>Computer Science and Engineering graduate</b> from the <a href="http://www.northsouth.edu/">North South University</a>.
 </p1>

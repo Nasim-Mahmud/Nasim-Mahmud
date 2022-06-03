@@ -56,9 +56,10 @@ External Links
 
 ### 👨‍💻 Programming and markup languages
 <p>
-<a href="https://github.com/search?q=user%3ANasim-Mahmud+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANasim-Mahmud+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANasim-Mahmud+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 
 </p>
 
@@ -87,6 +88,8 @@ External Links
 <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+<a href="#"><img alt="SketchUp" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"></a>
+<a href="#"><img alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 </p>
 
 ### 💪 Contribution graph

@@ -22,26 +22,6 @@ As a personal interest, I am currently learning <b>Python</b>.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasim-Mahmud&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
 </div>
 
-<!-- <h2 align="center"> -->
-<!-- 	Languages and tools -->
-<!-- </h2> -->
-<!-- <div align="center"> -->
-<!-- <code> -->
-<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> -->
-<!-- 	<img height="50" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png"> -->
-<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> -->
-<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> -->
-<!-- 	<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code> -->
-<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> -->
-<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> -->
-<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> -->
-<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> -->
-<!-- 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"> -->
-<!-- 	<img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"> -->
-<!-- 	<img height="50" src="https://www.seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png"> -->
-<!-- </code> -->
-<!-- </div> -->
-
 <h2 align="center">
 External Links
 </h2>
@@ -65,7 +45,6 @@ External Links
 
 ### 🧰 Frameworks and libraries
 <p>
-<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
@@ -76,6 +55,13 @@ External Links
 
 <p>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"></a>
+</p>
+
+### 🗄️ Prototyping Platform
+
+<p>
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+<a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools

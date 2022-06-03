@@ -2,8 +2,7 @@
 
 <!-- # Nasim Mahmud Mishu -->
 
-<a href="mailto:nasim.mishu@northsouth.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/nasim-mahmud/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 ![Profile views](https://gpvc.arturio.dev/Nasim-Mahmud)
 
 
@@ -26,12 +25,13 @@ As a personal interest, I am currently learning <b>Python</b>.
 External Links
 </h2>
 
-* [ResearchGate](https://www.researchgate.net/profile/Nasim_Mishu)
-* [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=jl0XIuAAAAAJ)
-* [LinkedIn](https://www.linkedin.com/in/nasim-mahmud/)
+<p>
+<a href="mailto:nasim.mishu@northsouth.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.researchgate.net/profile/Nasim_Mishu"><img alt="Research Gate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nasim-mahmud/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+</p>
 
-[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 
 ### 👨‍💻 Programming and markup languages
@@ -76,6 +76,7 @@ External Links
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
 <a href="#"><img alt="SketchUp" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"></a>
 <a href="#"><img alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
+<a href="#"><img alt="SublimeText" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
 </p>
 
 ### 💪 Contribution graph

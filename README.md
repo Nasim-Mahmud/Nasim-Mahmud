@@ -81,4 +81,8 @@ External Links
 
 ### 💪 Contribution graph
 
-<a href="#"><img alt="Nasim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nasim-Mahmud&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Nasim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nasim-Mahmud&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim-Mahmud&theme=dracula&layout=compact&hide_border=true)

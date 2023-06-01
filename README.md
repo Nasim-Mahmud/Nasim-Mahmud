@@ -84,4 +84,4 @@ External Links
 <a href="#"><img alt="Nasim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nasim-Mahmud&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
 
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim-Mahmud&theme=dracula&layout=compact&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api?username=Nasim-Mahmud&show_icons=true&theme=codeSTACKr)

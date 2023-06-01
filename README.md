@@ -79,7 +79,7 @@ External Links
 <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 </p>
 
-### 💪 Contribution graph
+<!-- ### 💪 Contribution graph -->
 
 <!-- <a href="#"><img alt="Nasim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nasim-Mahmud&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a> -->
 

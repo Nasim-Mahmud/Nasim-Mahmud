@@ -42,6 +42,8 @@ External Links
 
 </p>
 
+<!--  BADGES LINK: https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+
 ### 🧰 Frameworks and libraries
 <p>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>

@@ -1,9 +1,8 @@
-<img align="center" width="100%;" src="https://github.com/Nasim-Mahmud/Nasim-Mahmud/blob/main/N.jpg?"/>
+<img align="center" width="100%;" src="https://github.com/Nasim-Mahmud/Nasim-Mahmud/blob/main/gg.png?"/>
 
 <!-- # Nasim Mahmud Mishu -->
 
-
-![Profile views](https://gpvc.arturio.dev/Nasim-Mahmud)
+![Profile views](https://komarev.com/ghpvc/?username=Nasim-Mahmud&color=green)
 
 
 <p1 align="justify">

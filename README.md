@@ -18,7 +18,7 @@ As a personal interest, I am currently learning <b>Python</b> and <b>JavaScript<
 <h2 align="center">Github Stats</h2>
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nasim-Mahmud&theme=dark&hide_border=true&mode=weekly&card_width=496&stroke=1FEBDF&ring=8ED8EB&background=DD272700&fire=EBEBEB&sideLabels=A1CAEB" alt="GitHub Streak" /></a>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Nasim-Mahmud&theme=dark&hide_border=true&mode=weekly&card_width=496&stroke=1FEBDF&ring=8ED8EB&background=DD272700&fire=EBEBEB&sideLabels=A1CAEB" alt="GitHub Streak" /></a>
 
 <h2 align="center">
 External Links

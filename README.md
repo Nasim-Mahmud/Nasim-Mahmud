@@ -1,4 +1,4 @@
-<img align="center" width="100%;" src="https://github.com/Nasim-Mahmud/Nasim-Mahmud/blob/main/gg.png?"/>
+<!-- <img align="center" width="100%;" src="https://github.com/Nasim-Mahmud/Nasim-Mahmud/blob/main/gg.png?"/> -->
 
 <!-- # Nasim Mahmud Mishu -->
 
@@ -6,13 +6,10 @@
 
 
 <p1 align="justify">
-I am a <b>Computer Science and Engineering graduate</b> from the <a href="http://www.northsouth.edu/">North South University</a>.
-</p1>
-
-<p align="justify">
-My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
-
-As a personal interest, I am currently learning <b>Python</b> and <b>JavaScript</b>.
+👋 Hi, I’m Nasim, a researcher passionate about swarm robotics, autonomous agents, and deep reinforcement learning. <br>
+🎓 I hold a B.Sc. in Computer Science and Engineering from North South University. <br>
+🤖 Currently, I work as a Research Assistant at the NSU Intelligent Robotics (NIRO) Lab, focusing on swarm robotics architectures. <br>
+🧠 My research integrates machine learning into centralized and decentralized systems to enhance swarm coordination and adaptability. <br>
 </p>
 
 <h2 align="center">Github Stats</h2>

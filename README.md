@@ -22,11 +22,11 @@ Currently, I work at the **NSU Intelligent Robotics (NIRO) Lab**, exploring how 
 
 ## 🔬 Research Interests
 
-- 🤖 Swarm Robotics & Multi-Agent Systems
-- 🧠 Deep Reinforcement Learning for Autonomous Agents
-- 👁️ Computer Vision & Perception
-- 🛠️ CAD-Based Robotic Design & Embedded Systems
-- 🧭 Motion Planning & Autonomous Navigation
+- Swarm Robotics & Multi-Agent Systems
+- Deep Reinforcement Learning for Autonomous Agents
+- Computer Vision & Perception
+- CAD-Based Robotic Design & Embedded Systems
+- Motion Planning & Autonomous Navigation
 
 ## 💼 What I'm Working On
 
@@ -89,9 +89,9 @@ Currently, I work at the **NSU Intelligent Robotics (NIRO) Lab**, exploring how 
 
 I'm always open to discussing robotics, AI, and potential collaborations.
 
-- 📧 **Email:** [nasimmahmud1301@gmail.com](mailto:nasimmahmud1301@gmail.com)
-- 💼 **LinkedIn:** [nasim-mahmud](https://www.linkedin.com/in/nasim-mahmud/)
-- 🎓 **ResearchGate:** [Nasim_Mishu](https://www.researchgate.net/profile/Nasim_Mishu)
+- **Email:** [nasimmahmud1301@gmail.com](mailto:nasimmahmud1301@gmail.com)
+- **LinkedIn:** [nasim-mahmud](https://www.linkedin.com/in/nasim-mahmud/)
+- **ResearchGate:** [Nasim_Mishu](https://www.researchgate.net/profile/Nasim_Mishu)
 
 ---
 

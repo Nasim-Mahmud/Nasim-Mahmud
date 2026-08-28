@@ -27,7 +27,7 @@ Currently, I work at the **NSU Intelligent Robotics (NIRO) Lab**, exploring how 
 
 ## What I'm Working On
 
-- **Research Assistant** at NIRO Lab - studying centralized and decentralized swarm robotics architectures.
-- **Teaching Assistant** for *Introduction to Robotics* courses at North South University.
+- **Research Assistant** at NIRO Lab - working on centralized and decentralized swarm robotics architectures.
+- **Teaching Assistant** for Introduction to Robotics(CSE495a/ EEE494, CSE543) courses at North South University.
 - Designing educational robotics platforms and hexapod locomotion systems.
 
